@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pratham Loya</h1>
+<p align = "center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=1000&pause=800&color=E5BE7A&background=282D35EE&center=true&vCenter=true&multiline=true&width=1920&height=250&lines=Hello+there!;I'm+Pratham+Loya;Currently+Pursuing+Undergrad+at+VJTI,+Mumbai" alt="Typing SVG" />
+    </a>
+</p>
+
+<!-- <h1 align="center">Hi 👋, I'm Pratham Loya</h1>
 <h3 align="center">Pursuing Undergrad at VJTI, Mumbai</h3>  
- 
+  -->
 <p align="center"> 
     <img align="center" src="https://visitcount.itsvg.in/api?id=pratham-404&icon=0&color=2" alt="pratham-404" /> 
 </p>
@@ -27,11 +33,10 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<!-- <p>&nbsp;
+<p>&nbsp;
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=pratham-404&theme=one-dark" alt="adam-pw" />
-</p>  -->
+</p> 
 
-<br>
 <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-404&theme=onedark"  display=block width=100% height=auto  alt="1" ></td>
 </tr> 
