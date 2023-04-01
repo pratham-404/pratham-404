@@ -1,18 +1,19 @@
 <p align = "center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=1000&pause=800&color=E5BE7A&background=282D35EE&center=true&vCenter=true&multiline=true&width=1920&height=250&lines=Hello+there!;I'm+Pratham+Loya;Currently+Pursuing+Undergrad+at+VJTI,+Mumbai" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=1000&pause=800&color=E5BE7A&background=00000000&center=true&vCenter=true&multiline=true&width=1920&height=250&lines=Hello+there!;I'm+Pratham+Loya;Currently+Pursuing+Undergrad+at+VJTI,+Mumbai" alt="Typing SVG" />
     </a>
 </p>
 
 <p align="center"> 
-    <img align="center" src="https://visitcount.itsvg.in/api?id=pratham-404&icon=0&color=2" alt="pratham-404" style='height:30px; width:175px'/>
+    <img align="center" src="https://visitcount.itsvg.in/api?id=pratham-404&icon=0&color=2" alt="pratham-404" style='height:27px; width:150px'/>
 </p>
+
+<p><img align="right" src="./static/illustrator.png" alt="" /></p>
 
 ### About Me👨‍💻
 - ⌨ Mastering **Data Structures and Algorithms**. 
-- 🕸 Looking Forward to Collaborate on **Machine Learning** and **Web-Development** Projects.
+- 🕸 Looking Forward to Collaborate on **Machine Learning** and **Web-Dev**.
 - 💲 Currently learning **Deep Learning**
-
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/416965053212786690) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/pratham-loya-505330234?trk=public_profile_browsemap) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prathamloya12345) 
@@ -30,14 +31,13 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=pratham-404&theme=one-dark" alt="adam-pw" />
-</p> 
-
-<tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-404&theme=onedark"  display=block width=100% height=auto  alt="1" ></td>
+<tr>&nbsp;
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham-404&theme=onedark&bgcolor=0A0E12"  display=block width=100% height=auto  alt="1" ></td>
 </tr> 
 
+<p>
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=pratham-404&bg_color=00000000&color=C0A36B&line=DE6D75&point=8EB475&hide_border=true" alt="adam-pw" />
+</p> 
 
 ### 🏆 GitHub Trophies
 <p align="center"> 
