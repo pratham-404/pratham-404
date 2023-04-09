@@ -8,7 +8,7 @@
     <img align="center" src="https://visitcount.itsvg.in/api?id=pratham-404&icon=0&color=2" alt="pratham-404" style='height:27px; width:150px'/>
 </p>
 
-<p><img align="right" src="./static/illustrator.png" alt="" /></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/90606803/230751071-4b50bb27-5b40-44ea-b7d6-cd679cf05ecc.png" alt="" /></p>
 
 ### About Me👨‍💻
 - ⌨ Mastering **Data Structures and Algorithms**. 
