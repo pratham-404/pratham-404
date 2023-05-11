@@ -42,7 +42,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center"> 
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=pratham-404&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="pratham-404" /> 
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=pratham-404&theme=onedark&column=6&row=1" alt="pratham-404" /> 
     <br>
     </br>
     <a href="https://www.buymeacoffee.com/prathamloya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="prathamloya" /></a>
