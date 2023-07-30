@@ -30,7 +30,11 @@
 </p>
 
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    </picture>
 </div>
 
 <tr>&nbsp;
@@ -38,7 +42,7 @@
 </tr> 
 
 <p>
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=pratham-404&bg_color=00000000&color=C0A36B&line=DE6D75&point=8EB475&hide_border=true" alt="adam-pw" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham-404&bg_color=292C35&color=b98d37&line=c0a36b&point=ffbe33&area=true&hide_border=true" alt="" />
 </p> 
 
 ### 🏆 GitHub Trophies
